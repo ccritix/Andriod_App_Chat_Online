@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "251863402602",
+    "firebase_url": "https://mess-fbc4b.firebaseio.com",
+    "project_id": "mess-fbc4b",
+    "storage_bucket": "mess-fbc4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251863402602:android:d1092eea9ab6a088e4e213",
+        "android_client_info": {
+          "package_name": "com.anonymous.mess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251863402602-43kifaege4vbvfqvsm15cdpnskjs9i86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe6rC1yrthJx0rzdcunXWSPm39f3NHZY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251863402602-43kifaege4vbvfqvsm15cdpnskjs9i86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251863402602:android:19d4f385861f1bc4e4e213",
+        "android_client_info": {
+          "package_name": "com.anonymous.message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251863402602-43kifaege4vbvfqvsm15cdpnskjs9i86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe6rC1yrthJx0rzdcunXWSPm39f3NHZY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251863402602-43kifaege4vbvfqvsm15cdpnskjs9i86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251863402602:android:6fe2939eeed6e913e4e213",
+        "android_client_info": {
+          "package_name": "com.anonymous.uploadimg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251863402602-43kifaege4vbvfqvsm15cdpnskjs9i86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe6rC1yrthJx0rzdcunXWSPm39f3NHZY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251863402602-43kifaege4vbvfqvsm15cdpnskjs9i86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
