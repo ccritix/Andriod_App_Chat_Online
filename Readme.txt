@@ -1,23 +1,22 @@
-* Thông tin cơ bản:
-	- App được viết bằng Android 8.0 (API 26)
-	- App là một ứng dụng nhắn tin trực tuyến cơ bản
-	- Một số chức năng cơ bản bao gồm : Nhắn tin, xem lịch sử tin nhắn (online hoặc offline), xem thông tin người dùng, đăng nhập, đăng ký, đăng xuất, hiển thị thông báo khi có tin nhắn mới mà không mở ứng dụng
+* Basic information:
+- The app is written in Android 8.0 (API 26)
+- The app is a basic online messaging application
+- Some basic functions include: Messaging, viewing message history (online or offline), viewing user information, logging in, registering, logging out, displaying notifications when there are new messages without opening the application
 
-* Cách chạy ứng dụng:
-	- Thiết lập server:
-		+ Cài đặt công cụ XAMPP.
- 		+ Chép thư mục api được cung cấp sẵn vào thư mục htdocs của XAMPP.
-		+ Mở tập tin api/connection.php, điều chỉnh lại thông số cho phù hợp (username, password của phpMyAdmin)
-		+ Vào PhpMyAdmin, import tập tin appchat.sql vào.
-	- Chạy ứng dụng:
-		+ Cài đặt Android studio.
-		+ Vào Android studio mở thư mục có tên Message.
-		+ Chạy chương trình và kiểm tra kết quả.
+* How to run the application:
+- Set up the server:
++ Install the XAMPP tool.
++ Copy the provided api folder to the htdocs folder of XAMPP.
++ Open the api/connection.php file, adjust the parameters accordingly (username, password of phpMyAdmin)
++ Go to PhpMyAdmin, import the appchat.sql file.
+- Run the application:
++ Install Android studio.
++ Go to Android studio, open the folder named Message.
++ Run the program and check the results.
 
-* Phân công công việc nhóm:
-	- Viết báo cáo : 
-		+ Trần Hà Linh : Chương 1.
-		+ Thân Lê Tấn Định, Mai Hà Hoàng Thái : Chương 2.
-		+ Nguyễn Minh Hiếu : Chương 3, chương 4, tổng hợp và trình bày báo cáo.
-	- Chương trình: Tất cả các thành viên cùng làm.
-
+* Group work assignment:
+- Report writing:
++ Tran Ha Linh: Chapter 1.
++ Than Le Tan Dinh, Mai Ha Hoang Thai: Chapter 2.
++ Nguyen Minh Hieu: Chapter 3, chapter 4, summary and report presentation.
+- Program: All members work together.
